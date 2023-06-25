@@ -32,7 +32,7 @@ Each folder also contains necessary files to run the simulation using ABAQUS. To
 
 - Submit the job in ABAQUS COMMAND window.
 
-
+# Simulated results
 
 ![Alex](https://github.com/Jeff97/Realization-of-planar-and-surface-conformal-mappings/blob/main/Alex.jpg)
 
