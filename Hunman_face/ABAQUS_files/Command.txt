@@ -1,0 +1,4 @@
+C:
+cd C:\Users\12872\Desktop\Human_face
+
+abaqus job=Human_face user=Growth-Human-face.for cpus=6

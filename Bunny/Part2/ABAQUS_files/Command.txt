@@ -1,0 +1,3 @@
+C:
+cd C:\Users\12872\Desktop\Bunny\part2
+abaqus job=Bunny_Part2 user=Growth-Bunny-Part2.for cpus=6

@@ -1,0 +1,4 @@
+C:
+cd C:\Users\12872\Desktop\Model_car
+
+abaqus job=Model_car user=Growth-Model-car.for cpus=6
