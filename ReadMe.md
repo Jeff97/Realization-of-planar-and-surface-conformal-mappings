@@ -16,8 +16,8 @@ Each folder also contains necessary files to run the simulation using ABAQUS. To
 
 
 
-![Alex](https://github.com/Jeff97/Realization-of-planar-and-surface-conformal-mappings/blob/main/Alex.png)
+![Alex](https://github.com/Jeff97/Realization-of-planar-and-surface-conformal-mappings/blob/main/Alex.jpg)
 
-![Car](https://github.com/Jeff97/Realization-of-planar-and-surface-conformal-mappings/blob/main/Car.png)
+![Car](https://github.com/Jeff97/Realization-of-planar-and-surface-conformal-mappings/blob/main/Car.jpg)
 
-![Bunny](https://github.com/Jeff97/Realization-of-planar-and-surface-conformal-mappings/blob/main/Bunny.png)
+![Bunny](https://github.com/Jeff97/Realization-of-planar-and-surface-conformal-mappings/blob/main/Bunny.jpg)
