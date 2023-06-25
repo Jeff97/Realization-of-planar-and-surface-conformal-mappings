@@ -6,7 +6,7 @@ Here, we provide some supplementary files for the manuscript.
 
 
 
-### Simulation(needs expertise)
+# Simulation(needs expertise)
 
 Each folder also contains necessary files to run the simulation using ABAQUS. To run the simulation, please make sure 
 
@@ -43,16 +43,16 @@ Each folder also contains necessary files to run the simulation using ABAQUS. To
 
   
 
-### Simulated results
+# Simulated results
 
-##### Case 1: a human face
+### Case 1: a human face
 
 ![Alex](https://github.com/Jeff97/Realization-of-planar-and-surface-conformal-mappings/blob/main/Alex.jpg)
 
-##### Case 2: a model car
+### Case 2: a model car
 
 ![Car](https://github.com/Jeff97/Realization-of-planar-and-surface-conformal-mappings/blob/main/Car.jpg)
 
-##### Case 3: a bunny
+### Case 3: a bunny
 
 ![Bunny](https://github.com/Jeff97/Realization-of-planar-and-surface-conformal-mappings/blob/main/Bunny.jpg)
