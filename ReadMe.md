@@ -1,10 +1,10 @@
-Here, we provide some supplementary files for the manuscript. 
+Here, we provide some supplementary files for the manuscript[1]. 
 
 - Movie 1 shows the simulated growth process of different samples (2D, 3D and complex 3D cases). To download the movie, one can click the item, then click "View raw". 
 
 - Each folder contains .off files of the parametric plane and target shape. One can open .off files using software [MeshLab](https://www.meshlab.net/). 
 
-
+[1] Jiong wang, Zili Jin & Zhanfeng Li. (2023). [Realization of planar and surface conformal mappings through stress-free growth of hyperelastic plates.](https://www.researchgate.net/publication/372403776_Realization_of_planar_and_surface_conformal_mappings_through_stress-free_growth_of_hyperelastic_plates)
 
 # Simulation(needs expertise)
 
