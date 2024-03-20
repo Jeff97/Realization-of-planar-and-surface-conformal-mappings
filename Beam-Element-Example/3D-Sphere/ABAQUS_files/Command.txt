@@ -1,0 +1,5 @@
+D:
+
+cd C:\temp\Grow_of_beam\ABAQUS_Temp\LSCM\3D-the\Slant_Sphere\400\5_elements
+
+abaqus job=2Layers-400-5Beams-SDV user=Growth-UEXPAN.for

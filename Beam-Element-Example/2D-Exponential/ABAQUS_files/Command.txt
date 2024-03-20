@@ -1,0 +1,5 @@
+D:
+
+cd F:\ABAQUS-temp\Growth_of_beam\LSCM\Plane\Exponential\400\5_elements\essay
+
+abaqus job=2Layers-400-5Beams-SDV user=Growth-UEXPAN-1.for

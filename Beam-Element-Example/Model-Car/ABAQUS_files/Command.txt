@@ -1,0 +1,5 @@
+D:
+
+cd C:\temp\complex_surface\Model_car
+
+abaqus job=Beam-Model_car-h45 user=Growth-UEXPAN.for cpus=4
