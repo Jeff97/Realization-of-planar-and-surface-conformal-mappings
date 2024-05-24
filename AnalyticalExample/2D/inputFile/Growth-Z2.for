@@ -71,11 +71,13 @@ C
 C
 C
         STATEV(1)=(Lambda1-1.0)*(TIME(1)+DTIME)/TotalT
-        STATEV(2)=(Lambda2-1.0)*(TIME(1)+DTIME)/TotalT
+        ! STATEV(2)=(Lambda2-1.0)*(TIME(1)+DTIME)/TotalT
 C
         G11=1.0+STATEV(1)
-        G22=1.0+STATEV(2)
+        G22=G11
         G33=1.0
+
+        STATEV(2)=G11
 C
 ! C Reset components to be zero
 C
